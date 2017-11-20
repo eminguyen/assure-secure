@@ -6,6 +6,7 @@ A home security device developed for IEEE UCSD's Fall 2017 Quarterly Project.
 WORK IN PROGRESS
 
 # Table of Contents
+
 - [Team Members](# Team Members)
 - [Additional Credit](# Additional Credit)
 - [Explanation](# Explanation)
@@ -20,6 +21,7 @@ WORK IN PROGRESS
 - [Miguel Balboa for his RFID Library](https://github.com/miguelbalboa/rfid)
 
 # Explanation
+
 The theme for this quarter's IEEE project was to create a home automation device.
 Our group decided to pursue development of a home security system.
 
@@ -36,4 +38,5 @@ door.
 5. Buzzers + Lights (for user feedback)
 
 # Demonstration
+
 Will be added once project is complete
